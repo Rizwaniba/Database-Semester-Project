@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Net-Banking-Software-main/project2/src"/>
+	<classpathentry kind="lib" path="Net-Banking-Software-main/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Net-Banking-Software-main/lib/activation.jar"/>
+	<classpathentry kind="lib" path="Net-Banking-Software-main/lib/mail.jar"/>
+	<classpathentry kind="lib" path="Net-Banking-Software-main/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="Net-Banking-Software-main/lib/techsoftemail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

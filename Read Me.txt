@@ -1,0 +1,6 @@
+Internet Banking Portal || Allied Bank Services
+For installing this project in your system you need to create database file and you need to connect Database in your code
+"Bank data.sql" file is avaiable in project folder 
+Thanks you 
+Rizwan Ali & Umair Ahmed
+023-19-0155 & 023-19-0157
